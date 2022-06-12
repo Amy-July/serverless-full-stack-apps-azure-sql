@@ -1,0 +1,43 @@
+{
+  "masterKey": {
+    "name": "master",
+    "value": "LUINEGqL5BH6FBCWQyMgjeyNeJGi7Xfcs_kcOrjVGjpnAzFubDJleQ==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "vXbeaPxchsvcUsdK4ZYQrakWF6dafxSEy8XNbdZlpefqAzFuYK9Cjg==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000D906CAFF",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{
+  "masterKey": {
+    "name": "master",
+    "value": "LUINEGqL5BH6FBCWQyMgjeyNeJGi7Xfcs_kcOrjVGjpnAzFubDJleQ==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "vXbeaPxchsvcUsdK4ZYQrakWF6dafxSEy8XNbdZlpefqAzFuYK9Cjg==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [
+    {
+      "name": "blobs_extension",
+      "value": "9GGsR7PiVN36qgAQLDuat_2WpKEBXcUjXJJQsX4pgieZAzFu-P5GKA==",
+      "encrypted": false
+    }
+  ],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000D906CAFF",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}
